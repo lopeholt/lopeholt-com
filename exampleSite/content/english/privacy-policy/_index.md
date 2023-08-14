@@ -4,7 +4,8 @@ description : "this is a meta description"
 draft: false
 ---
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+Your personal data (for example title, name, address, e-mail address, telephone number, bank details, credit card number) will only be processed from us in accordance with the provisions of German data protection law and the data protection law of the European Union (EU).
+In addition to the processing purposes, recipients, legal bases, storage periods, the following regulations also inform you about your rights and the person responsible for your data processing. This data protection declaration only refers to our web pages. If you are forwarded to other pages via links on our pages, please inform yourself about the respective handling of your data on these sites.
 
 ### Product Buy & delivery policy
 

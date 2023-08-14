@@ -17,8 +17,8 @@
         <h1 class="mb-4">{{ .Title }}</h1>
         {{ with .Params.colors }}<p><strong>Colors: </strong>{{ delimit . ", " | title}}</p>{{ end }}
         {{ with .Params.sizes }}<p><strong>Sizes: </strong>{{ delimit . ", " | title}}</p>{{ end }}
-        <p class="price py-4">{{if .Params.discount_price}}{{site.Params.currency}}{{.Params.discount_price}}{{else}}{{site.Params.currency}}{{.Params.price}}{{end}}
-        {{if .Params.discount_price}}<s class="price">{{site.Params.currency}}{{ .Params.price }}</s>{{end}}
+        {{if site.Params.shop.enable }} <p class="price py-4">{{if .Params.discount_price}}{{site.Params.currency}}{{.Params.discount_price}}{{else}}{{site.Params.currency}}{{.Params.price}}{{end}}{{ end }}
+          {{if site.Params.shop.enable }}{{if .Params.discount_price}}<s class="price">{{site.Params.currency}}{{ .Params.price }}</s>{{end}}{{end}}
         </p>
         {{ if site.Params.snipcart.enable }}
         <button class="snipcart-add-item btn btn-main mb-5" 
@@ -36,9 +36,11 @@
           {{end}}>{{i18n "add_to_cart"}}
         </button>
         {{ else }}
-        {{ with .Params.button_link}}
-        <a class="btn btn-main mb-5" href="{{ . | absURL }}">{{i18n "add_to_cart"}}</a>
-        {{ end }}
+        {{if site.Params.shop.enable }}
+          {{ with .Params.button_link}}
+          <a class="btn btn-main mb-5" href="{{ . | absURL }}">{{i18n "add_to_cart"}}</a>
+          {{ end }}
+        {{end }}
         {{ end }}
 
         <div class="content">{{.Content}}</div>

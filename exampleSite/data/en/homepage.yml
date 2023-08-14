@@ -1,9 +1,9 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Believe in Technology, Make the change"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image: "images/watch.png"
+  title: "Customized Motorcycle Leather Jackets at Your Door Step"
+  content: "Tailor made motorcycle leather jackets that fit you well and look good"
+  image: "images/showcase/harley-vrod-front.webp"
   button:
     enable: true
     label: "Browse All Products"
@@ -13,57 +13,54 @@ banner:
 features:
   enable: true
   title: "Our Core Features"
-  image: "images/watch-2.png"
+  image: "images/showcase/x-men-3-uniform-front.webp"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Custom Tailoring"
+      icon: "tf-genius"
+      content: "Jackets tailored to customer's exact body measurements."
 
       # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Personalization Options"
+      icon: "tf-happy"
+      content: "Customize color, wording, and features."
 
       # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Bespoke Design"
+      icon: "tf-target3"
+      content: "Add or remove speedhump, air vents, perforated panels."
 
   # feature at the right of the image
   right_side:
     # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Complete Set"
+      icon: "tf-paperclip4"
+      content: "Matching trousers available for a coordinated look."
 
       # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Race-Ready Protection"
+      icon: "tf-lock2"
+      content: "All essential protective parts included."
 
       # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Versatile Use"
+      icon: "tf-ion-ios-checkmark-outline"
+      content: "Suitable for bike racing and everyday riding."
 
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/watch.png"
-  title: "Designed by professional , the benefit for creative gigs"
+  image: "images/showcase/honda-repsol-white-side-transformed.png"
+  title: "REDEFINE YOUR RIDE BY EXPLORING YOUR RIDER STYLE"
   content:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-    nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-    <br><br>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+    "Across our specialized collections, tailored to diverse rider preferences, Lopeholt products consistently outperform, going beyond what you expect. This fresh benchmark in motorcycle attire reimagines rider comfort, performance, and style."
 
 ############################# About Product #######################
 about_product:
   enable: true
-  title: "Why Choose Apple Watch"
+  title: "How to Make Your Order"
   items:
     # about product item loop
     - image: "images/showcase/showcase-4.png"
@@ -92,7 +89,7 @@ about_product:
 #################################### Products ########################
 products:
   enable: true
-  title: "Checkout Our All Products"
+  title: "Checkout Motorcycle Leather Jackets"
 
 ################################## Subscription ###################
 subscription:
@@ -105,22 +102,20 @@ subscription:
 ############################## Testimonial ##########################
 testimonial:
   enable: true
-  title: "Watch Review"
+  title: "Reviews"
   testimonial_item:
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
+    - name: "Jeff Whitley"
       image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content: "Harley-Davidson Custom Leather Jacket I worked hand in hand with the seller choosing lettering styles and colors as well as selecting HD appropriate patches. Additionally, the seller did an excellent job at recreating the custom HD design on the left chest. I Highly recommend and tip my hat to the seller on such a great job. The craftsmanship is excellent and it’s a top notch product that I’ll treasure for years to come!"
 
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
+    - name: "Lisa"
       image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content: "High quality jacket made exactly as I asked for…custom colors and patches….fit was also spot on. Customer service was excellent as well. Thanks!!"
 
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
+    - name: "Brendan"
       image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content: "The jacket is just beautiful! The construction seems to be really nice quality as are the materials, and all of the help with customizing the fit and the look we're great. Would highly recommend these guys, and would definitely buy from them again!!!"
+
