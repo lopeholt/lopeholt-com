@@ -53,7 +53,7 @@ features:
 promo:
   enable: true
   image: "images/showcase/honda-repsol-white-side-transformed.png"
-  title: "REDEFINE YOUR RIDE BY EXPLORING YOUR RIDER STYLE"
+  title: "REDEFINE YOUR RIDE BY EXPLORING YOUR STYLE"
   content:
     "Across our specialized collections, tailored to diverse rider preferences, Lopeholt products consistently outperform, going beyond what you expect. This fresh benchmark in motorcycle attire reimagines rider comfort, performance, and style."
 
@@ -63,24 +63,20 @@ about_product:
   title: "How to Make Your Order"
   items:
     # about product item loop
-    - image: "images/showcase/showcase-4.png"
-      title: "Lorem ipsum dolor sit amet."
+    - image: "images/custombikerjacketdrawing.webp"
+      title: "Choose your style"
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "The initial step is selecting your preferred style. If any of the styles in our catalog appeal to you, that's great. If not, you can just send us pictures of the jacket you prefer. Additionally, you can indicate your desired logos, text for the jacket, and whether you want air vents or perforated leather panels. Our team will collaborate with you to create a mockup that precisely matches your preferences."
       button:
         enable: false
         label: "Check Features"
         link: "#/"
 
     # about product item loop
-    - image: "images/showcase/showcase-3.png"
-      title: "Lorem ipsum dolor sit amet."
+    - image: "images/body-measurement.jpg"
+      title: "Take your body measurements"
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "Every jacket is custom-made to ensure a comfortable and secure fit while riding. You can share your measurements using the provided form and include any extra details you'd like to share. This helps us ensure your comfort and safety."
       button:
         enable: false
         label: "Check Features"
@@ -106,16 +102,16 @@ testimonial:
   testimonial_item:
     # testimonial item loop
     - name: "Jeff Whitley"
-      image: "images/avater.png"
+      image: "images/iap_640x640.4690426943_g7c2c6ve.webp"
       content: "Harley-Davidson Custom Leather Jacket I worked hand in hand with the seller choosing lettering styles and colors as well as selecting HD appropriate patches. Additionally, the seller did an excellent job at recreating the custom HD design on the left chest. I Highly recommend and tip my hat to the seller on such a great job. The craftsmanship is excellent and it’s a top notch product that I’ll treasure for years to come!"
 
     # testimonial item loop
     - name: "Lisa"
-      image: "images/avater.png"
+      image: "images/iap_640x640.4934234254_1i4er51d.webp"
       content: "High quality jacket made exactly as I asked for…custom colors and patches….fit was also spot on. Customer service was excellent as well. Thanks!!"
 
     # testimonial item loop
     - name: "Brendan"
-      image: "images/avater.png"
+      image: "images/iap_640x640.4249564498_gc8gpb6a.webp"
       content: "The jacket is just beautiful! The construction seems to be really nice quality as are the materials, and all of the help with customizing the fit and the look we're great. Would highly recommend these guys, and would definitely buy from them again!!!"
 
