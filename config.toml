@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "/"
+baseurl = "https://www.lopeholt.com"
 title = "Customized Motorcycle Leather Jackets at Your Door Step"
 theme = "vex-hugo"
 # post excert
