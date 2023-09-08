@@ -9,7 +9,7 @@ In addition to the processing purposes, recipients, legal bases, storage periods
 
 ### Product Buy & delivery policy
 
-1)All payments are processed securely through PayPal or Stripe. Themefisher does not directly process payments through the website. So any kind of Problem if you face Themefisher will Not Take any responsibility.
+All payments are processed securely through PayPal or Stripe. Themefisher does not directly process payments through the website. So any kind of Problem if you face Themefisher will Not Take any responsibility.
 
 ### Product Buy & delivery policy
 

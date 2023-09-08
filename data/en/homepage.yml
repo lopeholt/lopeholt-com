@@ -92,7 +92,7 @@ subscription:
   enable: true
   bg_image: "images/call-to-action.jpg"
   title: "Get Product Updates"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  content: "Stay in the Loop! Join Our Exclusive Newsletter for VIP Access and Special Offers."
   placeholder: "Your Email Address Here"
 
 ############################## Testimonial ##########################
@@ -103,7 +103,7 @@ testimonial:
     # testimonial item loop
     - name: "Jeff Whitley"
       image: "images/iap_640x640.4690426943_g7c2c6ve.webp"
-      content: "Harley-Davidson Custom Leather Jacket I worked hand in hand with the seller choosing lettering styles and colors as well as selecting HD appropriate patches. Additionally, the seller did an excellent job at recreating the custom HD design on the left chest. I Highly recommend and tip my hat to the seller on such a great job. The craftsmanship is excellent and it’s a top notch product that I’ll treasure for years to come!"
+      content: "I worked hand in hand with the seller choosing lettering styles and colors as well as selecting HD appropriate patches. Additionally, the seller did an excellent job at recreating the custom HD design on the left chest. I Highly recommend and tip my hat to the seller on such a great job. The craftsmanship is excellent and it’s a top notch product that I’ll treasure for years to come!"
 
     # testimonial item loop
     - name: "Lisa"

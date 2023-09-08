@@ -1,13 +1,13 @@
 ---
 title: "Contact"
-description : "this is a meta description"
+description : ""
 
 office:
   title : "Central Office"
-  mobile : "0124857985320"
-  email : "demo@email.com"
-  location : "Dhaka, Bangladedsh"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+  mobile : "00923456717000"
+  email : "lopeholt.com@gmail.com"
+  location : "Sialkot, Pakistan"
+  content : ""
 
 # opennig hour
 opennig_hour:
